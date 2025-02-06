@@ -1,0 +1,38 @@
+
+body{
+    font-family: "Poppins", serif;
+    background-color: beige;
+}
+
+.menu{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    margin: 10%;
+}
+a{
+    text-decoration: none;
+}
+container{
+    margin-top: 15%;
+    display: flex;
+    flex-wrap: wrap;
+}
+img {
+    width: 70%;
+    border-radius: 50%;
+    object-fit: cover; 
+}
+
+.box{
+    flex: 1; 
+    border: 1px solid white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+    
+}
+.box3{
+    flex-basis: 100%;
+}
