@@ -14,5 +14,13 @@
     "ejs": "^3.1.10",
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bananadonn/personal-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bananadonn/personal-website/issues"
+  },
+  "homepage": "https://github.com/bananadonn/personal-website#readme"
 }
